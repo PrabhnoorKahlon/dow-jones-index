@@ -1,4 +1,4 @@
-# dow-jones-index-Forecasting
+# dow-jones-index-Forecasting(Using R and Shiny App)
 
 Dow Jones is one of the largest business and financial news company in the world .Its Industrial Average or simply Dow is a stock market index. Its Index is designed to show the performance of the stock market and it specifically focuses on 30 large companies in the US.So it would be very helpful to forecast the dow jones index as this helps the investor know the overall scenario of the market and this helps to decide if they should invest in the market or not.
 
