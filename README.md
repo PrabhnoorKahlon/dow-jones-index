@@ -6,6 +6,6 @@ We have taken into consideration the adjusted closing price to forecast the valu
 
 The dataset is from yahoo finance .Its a monthly data of adjusted close  from january 2000 to december 2018.
 
-
+Used R to do the forecasting and used shiny app to show the visualizations.
 
 
